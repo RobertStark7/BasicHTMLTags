@@ -1,0 +1,19 @@
+/* rule-set #1: All the li items in css-main will have a green font */
+.css-main li{
+    color: green;
+}
+
+/* rule-set #2 */
+#number-one{
+    color: red;
+}
+
+#pad{
+    border: 10px blue;
+    margin: 100x 100x 100x 100x;
+    padding: auto;
+}
+
+h2{
+    font-family: "Times New Roman", Times, serif;
+}
