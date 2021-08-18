@@ -1,0 +1,13 @@
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\bin\Debug\netcoreapp3.1\main.cs.exe
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\bin\Debug\netcoreapp3.1\main.cs.deps.json
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\bin\Debug\netcoreapp3.1\main.cs.runtimeconfig.json
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\bin\Debug\netcoreapp3.1\main.cs.runtimeconfig.dev.json
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\bin\Debug\netcoreapp3.1\main.cs.dll
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\bin\Debug\netcoreapp3.1\main.cs.pdb
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\obj\Debug\netcoreapp3.1\main.cs.csproj.AssemblyReference.cache
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\obj\Debug\netcoreapp3.1\main.cs.AssemblyInfoInputs.cache
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\obj\Debug\netcoreapp3.1\main.cs.AssemblyInfo.cs
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\obj\Debug\netcoreapp3.1\main.cs.csproj.CoreCompileInputs.cache
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\obj\Debug\netcoreapp3.1\main.cs.dll
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\obj\Debug\netcoreapp3.1\main.cs.pdb
+C:\Users\stark\ElevenFiftyProjects\Assignments\CSSMain\main.cs\main.cs\obj\Debug\netcoreapp3.1\main.cs.genruntimeconfig.cache
